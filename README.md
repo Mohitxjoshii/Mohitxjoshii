@@ -72,7 +72,7 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
 </p>
 
-
+### Full Stack 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>

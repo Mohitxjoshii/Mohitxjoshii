@@ -8,10 +8,9 @@
 
 
 <p align="center">
-✅ Skilled in Backend & Frontend Technologies 🌩️ <br/>
-👯 Collaborating on Web Development Projects 💻 <br/>
-📫 Reach me at mohitxjoshi@gmail.com <br/>
-⚡ Fun Fact: I talk to servers more than people! 🖥️
+Automating & Scaling Infrastructure | CI/CD • DevSecOps • Cloud-Native Solutions <br/>
+BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
+📫 rohitbhardwaj121001@gmail.com
 </p>
 
 <p align="center">

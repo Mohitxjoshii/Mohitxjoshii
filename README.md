@@ -28,6 +28,51 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
 </p>
 
+### DevOps & Cloud Tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dozzle-black?style=for-the-badge"/>
+</p>
+
+### Cloud — AWS
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EBS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge"/>
+</p>
+
+### DevSecOps
+
+<p align="center">
+<img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+</p>
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>

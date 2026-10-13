@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mohit+Joshi;Web-Developer+%26+Backend+Engineer;Express+•+Mongodb+•+React+•+Nodejs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohit+Joshi;DevOps+Engineer;Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Docker+%E2%80%A2+Terraform;Automating+%26+Scaling+Infrastructure" />
 </h1>
 <p align="center">
 <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="320"/>

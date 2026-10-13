@@ -72,6 +72,17 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
 </p>
 
+### Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/Shell_Scripting-black?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
 ### Frontend
 
 <p align="center">

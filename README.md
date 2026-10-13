@@ -72,22 +72,25 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
 </p>
 
-### Full Stack 
+### Frontend
+
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-cyan?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tailwind-cyan?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Socket.io-gray?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
+### Others
+
+<p align="center">
+<img src="https://img.shields.io/badge/Networking-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-blue?style=for-the-badge"/>
+</p>
+
 
 ### 📊 GitHub Stats
 

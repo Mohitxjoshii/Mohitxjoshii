@@ -23,6 +23,7 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
@@ -101,6 +102,8 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 <img src="https://img.shields.io/badge/Networking-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem_Solving-blue?style=for-the-badge"/>
 </p>
+
+---
 
 
 ### 📊 GitHub Stats

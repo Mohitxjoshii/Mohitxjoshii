@@ -16,9 +16,6 @@ BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/Resume-green?style=for-the-badge"/></a>
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/joshiiji/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>
 <a href="https://github.com/Mohitxjoshii"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/></a>
 </p>

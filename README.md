@@ -10,7 +10,7 @@
 <p align="center">
 Automating & Scaling Infrastructure | CI/CD • DevSecOps • Cloud-Native Solutions <br/>
 BCA Graduate 2026 | Maharshi Dayanand University, Rohtak <br/>
-📫 rohitbhardwaj121001@gmail.com
+📫 mohitxjoshi@gmail.com
 </p>
 
 <p align="center">
